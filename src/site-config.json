@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "organic landscaping - raleigh, nc",
+    "phone": "+19194047979",
+    "category": "landscaping company",
+    "city": "Raleigh",
+    "state": "NC"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Raleigh's Premier Landscaping",
+      "heroSubline": "Transforming outdoor spaces with sustainable practices. Experienced team tackling Raleigh's unique climate.",
+      "aboutTitle": "Crafting Beautiful Landscapes in the Triangle",
+      "aboutText": [
+        "Organic Landscaping was founded right here in Raleigh over a decade ago with a simple mission: to bring sustainable and beautiful landscapes to our community. We saw a need for landscaping that not only looked great but also respected the environment and thrived in our Piedmont climate.",
+        "Our approach is rooted in understanding the unique challenges of Raleigh's red clay soil and humid summers. We prioritize native plants, efficient irrigation, and soil health to create landscapes that are both stunning and resilient. We believe in open communication, transparent pricing, and exceeding expectations on every project.",
+        "We're proud to be a part of the Raleigh community. We actively support local organizations and strive to minimize our environmental impact through responsible waste management and eco-friendly practices. We are committed to leaving a positive legacy, one landscape at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Sustainable Practices",
+          "description": "Eco-friendly landscaping that minimizes environmental impact and promotes biodiversity."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Raleigh's climate, soil, and native plant species."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Tailored landscaping solutions that reflect your personal style and enhance your property's value."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Dedicated team committed to providing exceptional service from initial consultation to project completion."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Landscape?",
+      "ctaSubline": "Contact us today for a free consultation and discover the possibilities for your outdoor space."
+    },
+    "services": [
+      {
+        "slug": "landscape-design",
+        "name": "Landscape Design",
+        "shortDescription": "Crafting custom landscape designs that thrive in Raleigh's unique environment.",
+        "description": "Our landscape design service is more than just aesthetics; it's about creating sustainable and functional outdoor spaces tailored to your needs and the local environment. We begin with a thorough site analysis, considering factors like sun exposure, soil type (especially Raleigh's prevalent red clay), and drainage patterns. We then develop a comprehensive design plan that incorporates native plants, efficient irrigation systems, and sustainable materials. Whether you're looking to create a tranquil backyard retreat, a vibrant front yard garden, or a functional outdoor living space, our team will work closely with you to bring your vision to life. We handle everything from initial concept sketches to detailed planting plans, ensuring a seamless and stress-free design process. We also address common Raleigh landscaping challenges such as drainage issues and plant selection for hot, humid summers. We provide a full rendering of the design, so you can visualize the finished product before any work begins.",
+        "process": [
+          "Step 1: Initial Consultation & Site Analysis",
+          "Step 2: Design Concept & Development",
+          "Step 3: Material Selection & Budgeting",
+          "Step 4: Final Design Presentation & Implementation"
+        ],
+        "benefits": [
+          "Increased Property Value",
+          "Enhanced Curb Appeal",
+          "Sustainable & Eco-Friendly Design",
+          "Personalized Outdoor Living Space"
+        ],
+        "faq": [
+          {
+            "question": "What is the typical timeline for a landscape design project?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but typically ranges from 2-6 weeks from initial consultation to final design presentation."
+          },
+          {
+            "question": "Do you offer design services for commercial properties?",
+            "answer": "Yes, we provide landscape design services for both residential and commercial properties in the Raleigh area."
+          },
+          {
+            "question": "How do you ensure the design is sustainable and environmentally friendly?",
+            "answer": "We prioritize native plants, efficient irrigation systems, and sustainable materials to minimize environmental impact and promote biodiversity."
+          }
+        ]
+      },
+      {
+        "slug": "lawn-care-maintenance",
+        "name": "Lawn Care & Maintenance",
+        "shortDescription": "Keeping your lawn healthy and vibrant year-round in the Raleigh climate.",
+        "description": "Maintaining a lush, healthy lawn in Raleigh's challenging climate requires expertise and attention to detail. Our lawn care and maintenance service is designed to keep your lawn looking its best year-round. We offer a comprehensive range of services, including mowing, edging, fertilization, weed control, aeration, and overseeding. We understand the specific needs of Raleigh lawns, from dealing with the Piedmont's red clay soil to managing common pests and diseases. Our team uses high-quality, environmentally friendly products and equipment to ensure the health and vitality of your lawn. We also offer specialized services such as soil testing and analysis to identify nutrient deficiencies and tailor our treatments accordingly. Whether you need weekly lawn mowing or a complete lawn renovation, we have the expertise and resources to meet your needs. We understand that a well-maintained lawn is not only aesthetically pleasing but also contributes to the overall health and value of your property. We will keep your lawn healthy and thriving, no matter the season.",
+        "process": [
+          "Step 1: Lawn Assessment & Soil Testing",
+          "Step 2: Customized Treatment Plan",
+          "Step 3: Regular Mowing & Edging",
+          "Step 4: Fertilization & Weed Control"
+        ],
+        "benefits": [
+          "Healthy & Vibrant Lawn",
+          "Weed & Pest Control",
+          "Improved Soil Health",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I fertilize my lawn in Raleigh?",
+            "answer": "We recommend fertilizing your lawn 2-3 times per year, typically in the spring and fall, depending on the type of grass and soil conditions."
+          },
+          {
+            "question": "What types of weed control do you offer?",
+            "answer": "We offer both pre-emergent and post-emergent weed control options to effectively manage a wide range of weeds in your lawn."
+          },
+          {
+            "question": "Do you offer organic lawn care options?",
+            "answer": "Yes, we offer organic lawn care options that utilize natural and environmentally friendly products."
+          }
+        ]
+      },
+      {
+        "slug": "hardscaping",
+        "name": "Hardscaping",
+        "shortDescription": "Designing and installing patios, walkways, and retaining walls for Raleigh homes.",
+        "description": "Enhance your outdoor living space with our professional hardscaping services. We specialize in designing and installing patios, walkways, retaining walls, and other hardscape features that add beauty, functionality, and value to your property. Our team has extensive experience working with a variety of materials, including pavers, natural stone, brick, and concrete. We understand the importance of proper site preparation and drainage, especially in Raleigh's clay-heavy soil, to ensure the longevity and stability of your hardscape features. Whether you're looking to create a cozy patio for entertaining, a winding walkway through your garden, or a sturdy retaining wall to prevent erosion, we have the expertise and resources to bring your vision to life. We work closely with you to understand your needs and preferences, and we provide detailed design plans and cost estimates before beginning any work. We are committed to providing high-quality workmanship and exceptional customer service. We can enhance your outdoor living space with beautiful and durable hardscaping features.",
+        "process": [
+          "Step 1: Site Evaluation & Design Consultation",
+          "Step 2: Material Selection & Budgeting",
+          "Step 3: Excavation & Base Preparation",
+          "Step 4: Installation & Finishing"
+        ],
+        "benefits": [
+          "Increased Property Value",
+          "Enhanced Outdoor Living Space",
+          "Improved Functionality & Accessibility",
+          "Durable & Long-lasting Features"
+        ],
+        "faq": [
+          {
+            "question": "What is the typical lifespan of a paver patio?",
+            "answer": "With proper installation and maintenance, a paver patio can last for 20-30 years or more."
+          },
+          {
+            "question": "Do I need a permit for a retaining wall?",
+            "answer": "Permit requirements vary depending on the height and location of the retaining wall. We can assist you with obtaining any necessary permits."
+          },
+          {
+            "question": "What types of materials are best for walkways in Raleigh?",
+            "answer": "Pavers, natural stone, and brick are all popular choices for walkways in Raleigh, depending on your budget and aesthetic preferences."
+          }
+        ]
+      },
+      {
+        "slug": "irrigation-systems",
+        "name": "Irrigation Systems",
+        "shortDescription": "Installing and maintaining efficient irrigation systems for Raleigh landscapes.",
+        "description": "Ensure your landscape receives the proper amount of water with our professional irrigation system services. We specialize in designing, installing, and maintaining efficient irrigation systems that conserve water and promote healthy plant growth. Our team has extensive experience working with a variety of irrigation systems, including sprinkler systems, drip irrigation, and micro-sprayers. We understand the importance of proper system design and installation to ensure optimal water distribution and minimize water waste. We also offer regular maintenance services, such as system inspections, repairs, and winterization, to keep your irrigation system running smoothly year-round. Whether you need a new irrigation system installed or an existing system repaired, we have the expertise and resources to meet your needs. We understand the impact of proper watering on the health of your lawn and gardens, especially during Raleigh's hot, dry summers. Let us help you keep your landscape thriving with an efficient and reliable irrigation system.",
+        "process": [
+          "Step 1: Water Audit & System Design",
+          "Step 2: Installation & Programming",
+          "Step 3: System Testing & Optimization",
+          "Step 4: Maintenance & Repairs"
+        ],
+        "benefits": [
+          "Water Conservation",
+          "Healthy Plant Growth",
+          "Reduced Water Bills",
+          "Automated Watering Schedule"
+        ],
+        "faq": [
+          {
+            "question": "How often should I water my lawn in Raleigh?",
+            "answer": "The frequency of watering depends on the type of grass, soil conditions, and weather patterns. We can help you develop a customized watering schedule for your lawn."
+          },
+          {
+            "question": "What is the difference between sprinkler systems and drip irrigation?",
+            "answer": "Sprinkler systems distribute water over a large area, while drip irrigation delivers water directly to the roots of plants, minimizing water waste."
+          },
+          {
+            "question": "How do I winterize my irrigation system?",
+            "answer": "Winterizing your irrigation system involves draining the pipes and protecting the components from freezing temperatures. We offer professional winterization services to ensure your system is properly protected."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-lighting",
+        "name": "Outdoor Lighting",
+        "shortDescription": "Designing and installing custom outdoor lighting solutions for Raleigh homes.",
+        "description": "Enhance the beauty and security of your property with our professional outdoor lighting services. We specialize in designing and installing custom outdoor lighting solutions that illuminate your landscape, highlight architectural features, and create a welcoming ambiance. Our team has extensive experience working with a variety of lighting fixtures, including path lights, spotlights, and deck lights. We understand the importance of proper lighting design to create the desired effect and minimize light pollution. We also offer energy-efficient LED lighting options that can save you money on your electricity bill. Whether you're looking to illuminate your walkways, highlight your trees, or create a cozy outdoor living space, we have the expertise and resources to bring your vision to life. We understand the importance of outdoor lighting for both aesthetic appeal and security in Raleigh neighborhoods. Let us help you transform your outdoor space with beautiful and functional outdoor lighting.",
+        "process": [
+          "Step 1: Design Consultation & Site Assessment",
+          "Step 2: Fixture Selection & Placement",
+          "Step 3: Installation & Wiring",
+          "Step 4: System Testing & Adjustment"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Increased Property Value",
+          "Improved Curb Appeal",
+          "Extended Outdoor Living Space"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED outdoor lighting?",
+            "answer": "LED outdoor lighting is energy-efficient, long-lasting, and provides a bright, consistent light output."
+          },
+          {
+            "question": "How do I choose the right outdoor lighting fixtures?",
+            "answer": "The best outdoor lighting fixtures depend on your specific needs and preferences. We can help you select the right fixtures based on your budget, style, and lighting goals."
+          },
+          {
+            "question": "How do I maintain my outdoor lighting system?",
+            "answer": "Regular maintenance, such as cleaning the fixtures and replacing bulbs, can help extend the life of your outdoor lighting system."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Solving drainage problems and preventing water damage in Raleigh landscapes.",
+        "description": "Address drainage issues in your yard with our expert drainage solutions. Raleigh's Piedmont red clay soil is notorious for poor drainage, leading to standing water, erosion, and damage to your landscape and foundation. We specialize in designing and installing effective drainage systems that solve these problems and protect your property. Our team has extensive experience working with a variety of drainage solutions, including French drains, surface drains, and dry creek beds. We understand the importance of proper site grading and drainage planning to ensure optimal water flow and prevent future problems. Whether you're dealing with a soggy lawn, a flooded basement, or erosion issues, we have the expertise and resources to provide a lasting solution. We understand the unique drainage challenges in Raleigh and the surrounding areas. Let us help you protect your property with a reliable and effective drainage system.",
+        "process": [
+          "Step 1: Site Inspection & Problem Assessment",
+          "Step 2: Drainage System Design & Planning",
+          "Step 3: Excavation & Installation",
+          "Step 4: Grading & Landscaping"
+        ],
+        "benefits": [
+          "Prevent Water Damage",
+          "Eliminate Standing Water",
+          "Prevent Erosion",
+          "Protect Your Foundation"
+        ],
+        "faq": [
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel or rock that contains a perforated pipe to redirect surface and groundwater away from an area."
+          },
+          {
+            "question": "How do I know if I need a drainage system?",
+            "answer": "Signs that you may need a drainage system include standing water, erosion, and a consistently soggy lawn."
+          },
+          {
+            "question": "What is the cost of installing a drainage system?",
+            "answer": "The cost of installing a drainage system varies depending on the size and complexity of the project. We can provide you with a free estimate after assessing your property."
+          }
+        ]
+      },
+      {
+        "slug": "seasonal-clean-up",
+        "name": "Seasonal Clean-Up",
+        "shortDescription": "Preparing Raleigh landscapes for spring and fall with comprehensive clean-up services.",
+        "description": "Prepare your landscape for the changing seasons with our comprehensive seasonal clean-up services. In Raleigh, seasonal changes bring unique challenges, from fall leaf removal to spring pruning and mulching. Our team provides thorough clean-up services that keep your landscape looking its best year-round. We offer leaf removal, debris removal, pruning, mulching, and other services to prepare your landscape for the upcoming season. We understand the importance of proper seasonal maintenance to promote healthy plant growth and prevent problems such as disease and pest infestations. Whether you need a one-time clean-up or a recurring seasonal maintenance plan, we have the expertise and resources to meet your needs. We understand the importance of seasonal clean-up for maintaining a healthy and attractive landscape in Raleigh. Let us help you keep your property looking its best year-round.",
+        "process": [
+          "Step 1: Site Inspection & Assessment",
+          "Step 2: Leaf & Debris Removal",
+          "Step 3: Pruning & Trimming",
+          "Step 4: Mulching & Bed Preparation"
+        ],
+        "benefits": [
+          "Healthy Plant Growth",
+          "Improved Curb Appeal",
+          "Reduced Risk of Disease",
+          "Preparation for the Changing Seasons"
+        ],
+        "faq": [
+          {
+            "question": "When is the best time to schedule a fall clean-up?",
+            "answer": "The best time to schedule a fall clean-up is after the majority of the leaves have fallen, typically in November or December."
+          },
+          {
+            "question": "What is included in a spring clean-up service?",
+            "answer": "A spring clean-up service typically includes debris removal, pruning, mulching, and bed preparation."
+          },
+          {
+            "question": "Do you offer leaf removal services for large properties?",
+            "answer": "Yes, we offer leaf removal services for properties of all sizes."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Durham",
+        "slug": "durham-nc",
+        "state": "NC",
+        "content": "Organic Landscaping - Raleigh, NC is proud to offer our comprehensive organic landscaping services to the residents and businesses of Durham. From the revitalized downtown area with its trendy industrial lofts to the historic neighborhoods, we understand the unique landscaping needs of this vibrant city. We are committed to providing sustainable and eco-friendly solutions to enhance the beauty and health of your outdoor spaces.\n\nOur Durham landscaping services include organic lawn care, garden design and installation, tree and shrub care, and hardscaping. We tailor our approach to the specific conditions and preferences of each property, ensuring healthy and thriving landscapes that are both beautiful and environmentally responsible. We understand the hot, humid summers of Durham and select plants and techniques that thrive in these conditions.\n\nWe are dedicated to using only organic and natural products, avoiding harmful chemicals and pesticides that can harm the environment and your family. Contact us today to learn how we can transform your Durham property into a stunning and sustainable oasis.",
+        "localContext": "Durham, with its population of approximately 285,000, features a mix of renovated industrial lofts downtown and established residential areas, all experiencing hot, humid summers.",
+        "nearbyAreas": [
+          "Chapel Hill",
+          "Raleigh",
+          "Morrisville"
+        ]
+      },
+      {
+        "city": "Cary",
+        "slug": "cary-nc",
+        "state": "NC",
+        "content": "Organic Landscaping - Raleigh, NC is delighted to serve the Cary community with our organic landscaping expertise. Known for its well-planned neighborhoods and family-friendly atmosphere, Cary presents unique landscaping opportunities. We offer eco-conscious solutions that enhance the curb appeal and value of your property while promoting a healthy environment.\n\nOur services in Cary encompass a wide range of options, including organic lawn maintenance, landscape design and installation, hardscaping, and seasonal clean-ups. We specialize in creating landscapes that are both beautiful and sustainable, using native plants and organic practices to minimize environmental impact. We are familiar with the common plant varieties in the master-planned communities built from the 1980s-2000s, and can offer suggestions for updating and improving these landscapes.\n\nWe are committed to providing exceptional customer service and creating landscapes that exceed your expectations. Contact us today to schedule a consultation and discover how we can transform your Cary property into a thriving and sustainable outdoor space.",
+        "localContext": "Cary, with a population around 175,000, is characterized by its master-planned communities developed primarily between the 1980s and 2000s, experiencing hot, humid summers.",
+        "nearbyAreas": [
+          "Apex",
+          "Morrisville",
+          "Raleigh"
+        ]
+      },
+      {
+        "city": "Chapel Hill",
+        "slug": "chapel-hill-nc",
+        "state": "NC",
+        "content": "Organic Landscaping - Raleigh, NC is proud to offer our organic landscaping services to the vibrant community of Chapel Hill. Home to the University of North Carolina, Chapel Hill boasts a diverse mix of housing styles and a strong commitment to sustainability. We provide eco-friendly landscaping solutions that complement the unique character of this charming town.\n\nOur Chapel Hill services include organic lawn care, garden design and installation, tree and shrub care, and hardscaping. We understand the importance of preserving the natural beauty of Chapel Hill and use only organic and sustainable practices to minimize our environmental impact. We are experienced in working with the varied housing styles around the university area.\n\nWe are dedicated to providing exceptional customer service and creating landscapes that are both beautiful and environmentally responsible. Contact us today to learn how we can transform your Chapel Hill property into a stunning and sustainable outdoor space.",
+        "localContext": "Chapel Hill, a university town with a population of approximately 62,000, features diverse housing options and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Carrboro",
+          "Durham",
+          "Hillsborough"
+        ]
+      },
+      {
+        "city": "Apex",
+        "slug": "apex-nc",
+        "state": "NC",
+        "content": "Organic Landscaping - Raleigh, NC is excited to bring our organic landscaping expertise to the growing community of Apex. Known for its family-friendly atmosphere and newer developments, Apex presents unique landscaping opportunities. We offer sustainable and eco-conscious solutions that enhance the beauty and value of your property while promoting a healthy environment.\n\nOur services in Apex encompass a wide range of options, including organic lawn maintenance, landscape design and installation, hardscaping, and seasonal clean-ups. We specialize in creating landscapes that are both beautiful and sustainable, using native plants and organic practices to minimize environmental impact. We understand the landscaping needs of the newer family developments in the 2000s-2020s and can help you create a landscape that is both functional and aesthetically pleasing.\n\nWe are committed to providing exceptional customer service and creating landscapes that exceed your expectations. Contact us today to schedule a consultation and discover how we can transform your Apex property into a thriving and sustainable outdoor space.",
+        "localContext": "Apex, with a population around 68,000, is characterized by its newer family developments built primarily in the 2000s and 2020s, experiencing hot, humid summers.",
+        "nearbyAreas": [
+          "Cary",
+          "Holly Springs",
+          "Fuquay-Varina"
+        ]
+      },
+      {
+        "city": "Morrisville",
+        "slug": "morrisville-nc",
+        "state": "NC",
+        "content": "Organic Landscaping - Raleigh, NC is pleased to offer our organic landscaping services to the thriving community of Morrisville. Home to many tech workers near the Research Triangle Park, Morrisville is a rapidly growing town with a diverse population. We provide eco-friendly landscaping solutions that complement the modern lifestyle of this dynamic area.\n\nOur Morrisville services include organic lawn care, garden design and installation, tree and shrub care, and hardscaping. We understand the importance of creating outdoor spaces that are both beautiful and functional, and we use only organic and sustainable practices to minimize our environmental impact. We are familiar with the landscaping preferences of tech workers and can help you create a landscape that is both relaxing and inspiring.\n\nWe are dedicated to providing exceptional customer service and creating landscapes that are both beautiful and environmentally responsible. Contact us today to learn how we can transform your Morrisville property into a stunning and sustainable outdoor space.",
+        "localContext": "Morrisville, with a population of approximately 30,000, is a hub for tech workers near RTP and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Cary",
+          "Raleigh",
+          "Durham"
+        ]
+      },
+      {
+        "city": "Garner",
+        "slug": "garner-nc",
+        "state": "NC",
+        "content": "Organic Landscaping - Raleigh, NC is proud to extend our organic landscaping services to the residents and businesses of Garner, NC. Garner offers a blend of suburban charm and convenient access to Raleigh, making it a desirable place to live and work. We are committed to providing sustainable and eco-friendly landscaping solutions that enhance the beauty and value of your property.\n\nOur Garner landscaping services include organic lawn care, landscape design and installation, tree and shrub care, and hardscaping. We tailor our approach to the specific needs of each property, ensuring healthy and thriving landscapes that are both aesthetically pleasing and environmentally responsible. We understand the importance of creating outdoor spaces that are perfect for relaxation and entertainment.\n\nWe are dedicated to using only organic and natural products, avoiding harmful chemicals and pesticides that can harm the environment and your family. Contact us today to learn how we can transform your Garner property into a stunning and sustainable oasis.",
+        "localContext": "Garner is a growing town near Raleigh with a mix of established neighborhoods and new developments, experiencing hot and humid summers.",
+        "nearbyAreas": [
+          "Clayton",
+          "Raleigh",
+          "Fuquay-Varina"
+        ]
+      },
+      {
+        "city": "Wake Forest",
+        "slug": "wake-forest-nc",
+        "state": "NC",
+        "content": "Organic Landscaping - Raleigh, NC is pleased to offer our organic landscaping services to the residents and businesses of Wake Forest, NC. Wake Forest is a charming town known for its historic downtown and family-friendly atmosphere. We are committed to providing sustainable and eco-friendly landscaping solutions that enhance the beauty and value of your property.\n\nOur Wake Forest landscaping services include organic lawn care, landscape design and installation, tree and shrub care, and hardscaping. We tailor our approach to the specific needs of each property, ensuring healthy and thriving landscapes that are both aesthetically pleasing and environmentally responsible. We understand the importance of creating outdoor spaces that are perfect for relaxation and recreation.\n\nWe are dedicated to using only organic and natural products, avoiding harmful chemicals and pesticides that can harm the environment and your family. Contact us today to learn how we can transform your Wake Forest property into a stunning and sustainable oasis.",
+        "localContext": "Wake Forest is a historic town north of Raleigh known for its family-friendly environment.",
+        "nearbyAreas": [
+          "Rolesville",
+          "Youngsville",
+          "Louisburg"
+        ]
+      },
+      {
+        "city": "Clayton",
+        "slug": "clayton-nc",
+        "state": "NC",
+        "content": "Organic Landscaping - Raleigh, NC is excited to bring our organic landscaping services to the growing town of Clayton, NC. Clayton offers a blend of small-town charm and convenient access to the Triangle area. We are committed to providing sustainable and eco-friendly landscaping solutions that enhance the beauty and value of your property.\n\nOur Clayton landscaping services include organic lawn care, landscape design and installation, tree and shrub care, and hardscaping. We tailor our approach to the specific needs of each property, ensuring healthy and thriving landscapes that are both aesthetically pleasing and environmentally responsible. We understand the importance of creating outdoor spaces that are perfect for relaxation and entertaining guests.\n\nWe are dedicated to using only organic and natural products, avoiding harmful chemicals and pesticides that can harm the environment and your family. Contact us today to learn how we can transform your Clayton property into a stunning and sustainable oasis.",
+        "localContext": "Clayton is a rapidly growing town southeast of Raleigh, offering a mix of suburban and rural living.",
+        "nearbyAreas": [
+          "Garner",
+          "Smithfield",
+          "Selma"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Landscape Design",
+        "text": "Organic Landscaping completely transformed our backyard! We have an older ranch home ITB, and the team created a beautiful, functional space that we now use constantly. They were professional, responsive, and truly listened to our ideas. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Lawn Care & Maintenance",
+        "text": "We've been using Organic Landscaping for lawn care for the past year, and our lawn has never looked better. They are reliable and efficient, and they always leave our yard looking immaculate. The only reason I didn't give 5 stars is that communication can sometimes be a bit slow. But overall, very happy with their service.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Hardscaping",
+        "text": "Organic Landscaping built a beautiful paver patio for us. The team helped us select the perfect materials to complement our home, and the installation was flawless. They were professional, courteous, and completed the project on time and within budget. We love our new patio!",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Irrigation Systems",
+        "text": "Organic Landscaping installed a new irrigation system for our lawn and garden, and it has made a huge difference. Our plants are healthier and our water bill is lower. The team was knowledgeable and efficient, and they explained everything clearly. Highly recommend!",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Outdoor Lighting",
+        "text": "We hired Organic Landscaping to install outdoor lighting around our home, and we are very pleased with the results. The lighting has enhanced the beauty of our landscape and increased our sense of security. The team was professional and courteous, and they completed the project quickly and efficiently. I would recommend them.",
+        "date": "2024-06-12"
+      },
+      {
+        "name": "Brian S.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "After years of dealing with standing water in our backyard, we finally decided to call Organic Landscaping. They installed a French drain that completely solved the problem. Our backyard is now dry and usable, and we couldn't be happier. The team was professional, knowledgeable, and efficient. Highly recommend!",
+        "date": "2024-04-28"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Organic Landscaping | Raleigh, NC",
+        "description": "Sustainable landscaping solutions in Raleigh. Design, maintenance, hardscaping, irrigation & more. Free consultations."
+      },
+      "about": {
+        "title": "About Us | Organic Landscaping Raleigh",
+        "description": "Learn about Organic Landscaping's commitment to sustainable practices and community in Raleigh, NC."
+      },
+      "services": {
+        "title": "Landscaping Services | Raleigh, NC",
+        "description": "Comprehensive landscaping services in Raleigh. Design, lawn care, hardscaping, drainage, lighting & more."
+      },
+      "contact": {
+        "title": "Contact Us | Organic Landscaping Raleigh",
+        "description": "Contact Organic Landscaping for a free consultation. Serving Raleigh, Durham, Cary, Chapel Hill, Apex & Morrisville."
+      },
+      "reviews": {
+        "title": "Customer Reviews | Organic Landscaping",
+        "description": "Read what our customers are saying about Organic Landscaping in Raleigh. See our 5-star reviews."
+      },
+      "service-areas": {
+        "title": "Service Areas | Organic Landscaping",
+        "description": "Organic Landscaping provides services to Raleigh, Durham, Cary, Chapel Hill, Apex, and Morrisville."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "landscape-design": "/images/service-landscape-design.webp",
+      "lawn-care-maintenance": "/images/service-lawn-care-maintenance.webp",
+      "hardscaping": "/images/service-hardscaping.webp",
+      "irrigation-systems": "/images/service-irrigation-systems.webp",
+      "outdoor-lighting": "/images/service-outdoor-lighting.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp",
+      "seasonal-clean-up": "/images/service-seasonal-clean-up.webp"
+    },
+    "servicesResponsive": {
+      "landscape-design": {
+        "src": "/images/service-landscape-design.webp",
+        "srcset": "/images/service-landscape-design-400w.webp 400w, /images/service-landscape-design-800w.webp 800w, /images/service-landscape-design-1200w.webp 1200w, /images/service-landscape-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lawn-care-maintenance": {
+        "src": "/images/service-lawn-care-maintenance.webp",
+        "srcset": "/images/service-lawn-care-maintenance-400w.webp 400w, /images/service-lawn-care-maintenance-800w.webp 800w, /images/service-lawn-care-maintenance-1200w.webp 1200w, /images/service-lawn-care-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscaping": {
+        "src": "/images/service-hardscaping.webp",
+        "srcset": "/images/service-hardscaping-400w.webp 400w, /images/service-hardscaping-800w.webp 800w, /images/service-hardscaping-1200w.webp 1200w, /images/service-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "irrigation-systems": {
+        "src": "/images/service-irrigation-systems.webp",
+        "srcset": "/images/service-irrigation-systems-400w.webp 400w, /images/service-irrigation-systems-800w.webp 800w, /images/service-irrigation-systems-1200w.webp 1200w, /images/service-irrigation-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-lighting": {
+        "src": "/images/service-outdoor-lighting.webp",
+        "srcset": "/images/service-outdoor-lighting-400w.webp 400w, /images/service-outdoor-lighting-800w.webp 800w, /images/service-outdoor-lighting-1200w.webp 1200w, /images/service-outdoor-lighting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "seasonal-clean-up": {
+        "src": "/images/service-seasonal-clean-up.webp",
+        "srcset": "/images/service-seasonal-clean-up-400w.webp 400w, /images/service-seasonal-clean-up-800w.webp 800w, /images/service-seasonal-clean-up-1200w.webp 1200w, /images/service-seasonal-clean-up.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-organic-landscaping-raleigh-nc.dream-surge.com/sitemap-index.xml
